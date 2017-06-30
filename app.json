@@ -1,0 +1,7 @@
+{
+  "name": "SampleApp",
+  "displayName": "SampleApp",
+  "expo": {
+    "sdkVersion": "17.0.0"
+  }
+}
